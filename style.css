@@ -1,0 +1,21 @@
+main {
+    width: 60%;
+    margin-top: 60px;
+    text-align: center;
+}
+#numbersInputPlace {
+    width: 240px;
+    text-align: right;
+}
+.buttonArea {
+    width: 240px;
+    height: 110px;
+    margin: 20px auto 0; 
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+    align-content: space-around;
+}
+.buttonArea input {
+    width: 50px;
+}
